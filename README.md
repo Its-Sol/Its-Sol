@@ -1,7 +1,7 @@
-- Hi, My name is Marcio, but i prefer being called Sol, my github username is @Its-Sol
+- 
+- Hi, My name is Marcio, but i prefer being called Sol, my GitHub username is @Its-Sol
 - I’m interested in backend web development
-- I’m currently learning C, and linux terminal usage
-- Right now i don't wanna collaborate on any open source projects, cuz i don't feel ready, but it would be cool to do it in the future
+- I’m currently learning C to learn about memory and pointers, i'm also learning linux terminal usage, after learning C i'll learn Java
 - Pronouns: It/Its
 
 <!---
